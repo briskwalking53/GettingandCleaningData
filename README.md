@@ -32,3 +32,24 @@ You should create one R script called run_analysis.R that does the following.
 4.Appropriately labels the data set with descriptive variable names. 
 5.From the data set in step 4, creates a second, independent tidy data set with 
   the average of each variable for each activity and each subject.
+
+
+This course project includes 4 files.
+
+1. README.md
+
+README.md explains the analysis files is clear and understandable
+
+2. CodeBook.md
+
+CodeBbook.md with the data indicates all the variables
+
+3. run_Analysis.R
+
+run_Analysis.R performs the above five 5 steps.
+
+4. FinalData.txt
+
+FinalData.txt is the independent tidy data set with the average of each variable 
+for each activity and each subject.
+
